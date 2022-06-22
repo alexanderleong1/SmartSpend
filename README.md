@@ -1,6 +1,8 @@
 # SmartSpend
 Finance management system with automatic receipt scanner.
 
+<strong>Winner of Most Creative Use of GitHub Award at HackNYU 2022!</strong>
+
 # Tesseract.js
 This app uses Tesseract.js to read text from images.\
 Tesseract.js Github: https://github.com/naptha/tesseract.js?files=1 \
